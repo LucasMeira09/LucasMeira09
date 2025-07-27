@@ -5,11 +5,11 @@
 
 
 <p align="left">
-    <a href="https://github.com/LucasMeira09?tab=repositories&sort=stargazers">
+    <a href="https://github.com/LucasDeAlmeidaMeira?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LucasMeira09?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/LucasDeAlmeidaMeira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/LucasMeira09?tab=followers">
