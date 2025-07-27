@@ -1,21 +1,21 @@
-0# 👩🏻‍💻 Lucas de Almeida Meira
+# 👩🏻‍💻 Lucas de Almeida Meira
 
 **`Students`**
 
-
+My name is Lucas De Almeida Meira, I'm 16 years old, and I'm a student in Belgium in the 5th year of secondary school. I'm a self-taught programming student and I'm currently studying machine learning.
 
 <p align="left">
     <a href="https://github.com/LucasMeira09?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Total stars" 
+            title="Total GitHub star" 
             src="https://custom-icon-badges.demolab.com/github/stars/LucasMeira09?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/LucasMeira09?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="Follow me in GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/LucasMeira09?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -23,7 +23,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖  Languages and Technologies
 <img 
     align="left" 
     alt="Python" 
@@ -36,7 +36,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
