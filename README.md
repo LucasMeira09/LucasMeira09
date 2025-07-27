@@ -9,14 +9,14 @@ My name is Lucas De Almeida Meira, I'm 16 years old, and I'm a student in Belgiu
         <img 
             alt="Total stars" 
             title="Total GitHub star" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LucasMeira09?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/LucasMeira09?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/LucasMeira09?tab=followers">
         <img 
             alt="Followers" 
             title="Follow me in GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LucasMeira09?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/LucasMeira09?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
@@ -44,7 +44,7 @@ My name is Lucas De Almeida Meira, I'm 16 years old, and I'm a student in Belgiu
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasMeira09&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LucasMeira09&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
 <img 
