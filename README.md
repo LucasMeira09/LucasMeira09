@@ -2,7 +2,7 @@
 
 **`Students`**
 
-My name is Lucas De Almeida Meira, I'm 16 years old, and I'm a student in Belgium in the 5th year of secondary school. I'm a self-taught programming student and I'm currently studying machine learning.
+My name is Lucas De Almeida Meira, I'm 17 years old, and I'm a student in Belgium in the 5th year of secondary school. I'm a self-taught programming student and I'm currently studying and improve my skils.
 
 <p align="left">
     <a href="https://github.com/LucasMeira09?tab=repositories&sort=stargazers">
