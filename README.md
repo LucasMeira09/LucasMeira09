@@ -2,7 +2,9 @@
 
 **`Students`**
 
-My name is Lucas De Almeida Meira, I'm 17 years old, and I'm a student in Belgium in the 5th year of secondary school. I'm a self-taught programming student and I'm currently studying and improve my skils.
+My name is Lucas De Almeida Meira, I'm python developer with strong problem-solving skills and a passion for automation and AI systems. I specialize in Python and have hands-on experience with NumPy, Pandas, Requests, BeautifulSoup, and Selenium.
+
+I have completed over 10 web scraping projects and built a university-level RAG (Retrieval-Augmented Generation) system. Fast learner, adaptable, and always looking to improve and build impactful projects.
 
 <p align="left">
     <a href="https://github.com/LucasMeira09?tab=repositories&sort=stargazers">
