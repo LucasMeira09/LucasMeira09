@@ -42,14 +42,14 @@ I have completed over 10 web scraping projects and built a university-level RAG 
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=LucasMeira09&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasMeira09&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMeira09&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucasMeira09&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
     alt="Top Languages" 
     height="200" 
   />
-</p>
+</p>>
