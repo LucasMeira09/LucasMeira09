@@ -37,11 +37,29 @@ I have completed over 10 web scraping projects and built a university-level RAG 
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Numpy" 
+    title="Numpy"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://www.google.com/imgres?q=python%20numpy&imgurl=https%3A%2F%2Fwww.pythontutorial.net%2Fwp-content%2Fuploads%2F2022%2F08%2Fnumpy-tutorial.svg&imgrefurl=https%3A%2F%2Fwww.pythontutorial.net%2Fpython-numpy%2F&docid=VCqE6-oFyXLytM&tbnid=xUwXFNDNcdxySM&vet=12ahUKEwjv2bDc1fCSAxUuywIHHWYJB3kQnPAOegQIHxAB..i&w=2336&h=2500&hcb=2&ved=2ahUKEwjv2bDc1fCSAxUuywIHHWYJB3kQnPAOegQIHxAB)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Matplotlib" 
+    title="Matplotlib"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
 />
 
 <br/>
