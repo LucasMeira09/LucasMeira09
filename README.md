@@ -62,6 +62,15 @@ I have completed over 10 web scraping projects and built a university-level RAG 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostrgeSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"        
+/>
+
 <br/>
 <br/>
 
